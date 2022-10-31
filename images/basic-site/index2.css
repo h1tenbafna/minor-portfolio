@@ -1,0 +1,10 @@
+.total {
+    margin-left: 30%;
+    margin-right: 30%;
+      width: 50%;
+      background-color: honeydew;
+      border: 7px solid blueviolet;
+      padding: 10px;
+      align-items: center;
+      text-align: center;
+    }
